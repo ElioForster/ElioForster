@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to use JupyterLabs
 - 💞️ I’m looking to collaborate on nothing to be honest
 - 📫 How to reach me elio.forster@stud.kftg.ch
-- https://www.youtube.com/watch?v=dQw4w9WgXcQ <- Es ist keine Falle
+- https://www.youtube.com/watch?v=dQw4w9WgXcQ   <-- Es ist keine Falle
 
 <!---
 ElioForster/ElioForster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
